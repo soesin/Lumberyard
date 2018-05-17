@@ -1,0 +1,6 @@
+[submodule "dev/Tools/ImmersiveWorldsTools"]
+	path = dev/Tools/ImmersiveWorldsTools
+	url = ssh://192.168.44.100/git/ImmersiveWorldsTools.git
+[submodule "dev/ImmersiveWorlds"]
+	path = dev/ImmersiveWorlds
+	url = ssh://192.168.44.100/git/ImmersiveWorlds.git
